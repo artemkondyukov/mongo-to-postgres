@@ -1,0 +1,4 @@
+.stack-work/
+postgres-haskell-test.cabal
+*~
+.vscode
